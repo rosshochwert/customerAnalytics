@@ -1,0 +1,9 @@
+name: customerChurn
+account: rosshochwert
+server: shinyapps.io
+appId: 100409
+bundleId: 445020
+url: https://rosshochwert.shinyapps.io/customerChurn/
+when: 1462729492.5906
+asMultiple: FALSE
+asStatic: FALSE

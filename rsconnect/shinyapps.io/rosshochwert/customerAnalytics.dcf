@@ -1,0 +1,9 @@
+name: customerAnalytics
+account: rosshochwert
+server: shinyapps.io
+appId: 100709
+bundleId: 445026
+url: https://rosshochwert.shinyapps.io/customerAnalytics/
+when: 1462729695.26753
+asMultiple: FALSE
+asStatic: FALSE
